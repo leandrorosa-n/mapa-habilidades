@@ -283,11 +283,11 @@ flowchart TB
 
 ## 📲 Conecte-se comigo
 
-- 💼 LinkedIn: `adicione seu link`
-- 📸 Instagram: `adicione seu link`
-- 🌐 Site/Portfólio: `adicione seu link`
-- 📧 E-mail: `adicione seu e-mail`
-- 🐙 GitHub: `adicione seu GitHub`
+- 💼 LinkedIn: `https://www.linkedin.com/in/leandronogueirarosa/`
+- 📸 Instagram LIB Digital: `https://www.instagram.com/libdigitalbrasil/`
+- 📸 Instagram Pessoal: `https://www.instagram.com/leandrorosa.n/`
+- 🌐 Site/Portfólio: `https://libdigital.lovable.app/`
+- 📧 E-mail: `leandrorosa.nogueira@gmail.com`
 
 ---
 
